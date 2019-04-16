@@ -13,5 +13,6 @@ public class RestApiTest {
 	public void deleteTwitter(){
 		System.out.println("deleteTwitter");
 		System.out.println("basket case");
+		System.out.println("brainstew/jaded");
 	}
 }

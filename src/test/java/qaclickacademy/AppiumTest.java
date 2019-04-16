@@ -9,6 +9,7 @@ public class AppiumTest {
 	public void nativeApp(){
 		System.out.println("nativeApp");
 		System.out.println("smells like teen spirit");
+		System.out.println("trivium strife");
 	}
 	
 	@Test
