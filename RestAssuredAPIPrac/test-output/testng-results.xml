@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3579" started-at="2019-05-02T17:22:53Z" finished-at="2019-05-02T17:22:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3579" started-at="2019-05-02T17:22:53Z" finished-at="2019-05-02T17:22:56Z">
+      <class name="restassuredprac.AddandDeleteExample">
+        <test-method status="PASS" signature="getData()[pri:0, instance:restassuredprac.AddandDeleteExample@13deb50e]" name="getData" is-config="true" duration-ms="52" started-at="2019-05-02T17:22:53Z" finished-at="2019-05-02T17:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="addanddeleteplace()[pri:0, instance:restassuredprac.AddandDeleteExample@13deb50e]" name="addanddeleteplace" duration-ms="3471" started-at="2019-05-02T17:22:53Z" finished-at="2019-05-02T17:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addanddeleteplace -->
+      </class> <!-- restassuredprac.AddandDeleteExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

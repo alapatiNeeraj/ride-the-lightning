@@ -1,0 +1,23 @@
+08:26:05.149 [TestNG] INFO  framworkpractice.ValidationPage - assertion Successful
+08:26:21.747 [TestNG] INFO  framworkpractice.HomePage - forca
+08:26:25.270 [TestNG] INFO  framworkpractice.HomePage - driver intialized
+08:27:00.326 [TestNG] INFO  framworkpractice.HomePage - navigated to the URL successfully
+08:27:24.334 [TestNG] INFO  framworkpractice.HomePage - audible
+16:13:13.030 [TestNG] INFO  framworkpractice.ValidateNavigation - driver intialized
+16:13:13.030 [TestNG] INFO  framworkpractice.ValidationPage - driver intialized
+16:13:13.590 [TestNG] INFO  framworkpractice.HomePage - driver intialized
+16:13:19.270 [TestNG] INFO  framworkpractice.HomePage - navigated to the URL successfully
+16:13:19.319 [TestNG] INFO  framworkpractice.ValidateNavigation - navigated to the URL successfully
+16:13:19.336 [TestNG] INFO  framworkpractice.ValidationPage - navigated to the URL successfully
+16:14:41.029 [TestNG] INFO  framworkpractice.HomePage - driver intialized
+16:14:41.029 [TestNG] INFO  framworkpractice.ValidationPage - driver intialized
+16:14:41.902 [TestNG] INFO  framworkpractice.ValidateNavigation - driver intialized
+16:15:02.204 [TestNG] INFO  framworkpractice.ValidationPage - navigated to the URL successfully
+16:15:04.703 [TestNG] INFO  framworkpractice.ValidateNavigation - navigated to the URL successfully
+16:15:05.008 [TestNG] INFO  framworkpractice.HomePage - navigated to the URL successfully
+16:15:08.465 [TestNG] INFO  framworkpractice.ValidateNavigation - validation successful
+16:15:09.893 [TestNG] INFO  framworkpractice.ValidationPage - assertion Successful
+16:15:26.513 [TestNG] INFO  framworkpractice.HomePage - forca
+16:15:30.612 [TestNG] INFO  framworkpractice.HomePage - driver intialized
+16:15:36.271 [TestNG] INFO  framworkpractice.HomePage - navigated to the URL successfully
+16:15:59.489 [TestNG] INFO  framworkpractice.HomePage - audible

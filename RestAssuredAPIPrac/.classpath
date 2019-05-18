@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/rest-assured-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/rest-assured-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/rest assured/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json path/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/json-schema-validator-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/docs/json-schema-validator-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WINDOWS_10/Desktop/Rest API/jars/json schema/docs/json-schema-validator-3.3.0-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="framworkpractice.Listeners"/>
+  </listeners>
+  <test name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="framworkpractice.ValidationPage">
+        <methods>
+          <include name="navigateUrl"/>
+          <include name="endofTest"/>
+        </methods>
+      </class> <!-- framworkpractice.ValidationPage -->
+      <class name="framworkpractice.ValidateNavigation">
+        <methods>
+          <include name="endofTest"/>
+          <include name="navigateUrl"/>
+        </methods>
+      </class> <!-- framworkpractice.ValidateNavigation -->
+      <class name="framworkpractice.HomePage">
+        <methods>
+          <include name="navigate" invocation-numbers="0"/>
+          <include name="endofTest"/>
+        </methods>
+      </class> <!-- framworkpractice.HomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

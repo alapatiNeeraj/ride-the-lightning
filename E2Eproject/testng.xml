@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="3">
+<listeners>
+<listener class-name="framworkpractice.Listeners" />
+<listener class-name="framworkpractice.ExtentReportsListeners"/>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="framworkpractice.HomePage"/>
+       </classes>
+  </test>
+  <test name="Test1">
+   <classes>
+  <class name="framworkpractice.AppTest"/>
+  </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+  <classes>
+  <class name="framworkpractice.ValidateNavigation"/>
+  </classes>
+  </test> <!-- Test -->
+  <test name="Test3">
+  <classes>
+<class name="framworkpractice.ValidationPage"/>
+</classes>
+  </test>
+  
+</suite> <!-- Suite -->
